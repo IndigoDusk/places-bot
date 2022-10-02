@@ -45,23 +45,3 @@ var retweet = function() {
 
 // Retvituj na svakih 50 minuta:
 setInterval(retweet, 3000000); 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
