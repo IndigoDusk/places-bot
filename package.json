@@ -1,0 +1,17 @@
+{
+  "name": "places-bot",
+  "version": "1.0.0",
+  "description": "This is a bot collecting people's favorite places in virtual space",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gordan Jarić",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "twit": "^2.2.11",
+    "twitter-api-client": "^1.6.1"
+  }
+}
