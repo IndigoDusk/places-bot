@@ -42,6 +42,7 @@ var retweet = function() {
     });
 };
 
-
+// Pokušaj retvit čim se program pokrene:
+retweet();
 // Retvituj na svakih 50 minuta:
 setInterval(retweet, 3000000); 
